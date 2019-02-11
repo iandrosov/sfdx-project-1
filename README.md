@@ -1,14 +1,6 @@
-# SFDX  App
+# SFDX Trailhead App
 
-## Dev, Build and Test
+This project repository is created for Trailhead Lightning Web Components badge purposes
 
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
 
 
